@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 140" role="img" aria-label="BNY">
+  <title>BNY</title>
+  <rect width="400" height="140" fill="none"/>
+  <g fill="#04243C" font-family="Söhne, Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="700" letter-spacing="-2">
+    <text x="20" y="100" font-size="96">BNY</text>
+  </g>
+  <rect x="20" y="114" width="260" height="3" fill="#2B9CAE"/>
+  <text x="20" y="132" fill="#4F4C4D" font-family="Söhne, Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="1.5">SINCE 1784</text>
+</svg>
